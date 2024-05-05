@@ -49,3 +49,44 @@ def quiz():
 
 
 quiz()
+
+
+'''  
+output
+
+Question 1: What is the tallest mammal?
+1. Giraffe
+2. Elephant
+3. Horse
+4. Rhino
+Your answer (enter the option number): 1
+Correct!
+Question 2: What is the chemical symbol for gold?
+1. Au
+2. Ag
+3. Fe
+4. Pb
+Your answer (enter the option number): 2
+Wrong! The correct answer is Au
+Question 3: Who painted the Mona Lisa?
+1. Vincent van Gogh
+2. Leonardo da Vinci
+3. Pablo Picasso
+4. Michelangelo
+Your answer (enter the option number): 2
+Correct!
+Question 4: What is the capital of Japan?
+1. Tokyo
+2. Beijing
+3. Seoul
+4. Bangkok
+Your answer (enter the option number): 1
+Correct!
+Question 5: Which is the largest organ in the human body?
+1. Liver
+2. Skin
+3. Heart
+4. Brain
+Your answer (enter the option number): 1
+Wrong! The correct answer is Skin
+'''
